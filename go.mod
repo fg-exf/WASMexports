@@ -14,4 +14,4 @@ require (
         golang.org/x/crypto v0.35.0 // indirect
 )
 
-replace github.com/spf13/cobra => github.com/fg-exf/Cobra v0.0.0-20250304142436-59f91f44f2b4
+replace github.com/spf13/cobra => github.com/fg-exf/Cobra latest
